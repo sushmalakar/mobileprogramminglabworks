@@ -1,0 +1,6 @@
+Views and the View Hierarchy
+
+
+ A view hierarchy defines the relationship of view in a window to each other. Every application has a single instance of UIWindow that serves as the container for all the views in the application. The window is created when the application launches. Once the window is created, you can add other views to it. 
+
+When a view is added to the window, it is said to be a sub view of the window. Views that are sub views of the window can also have sub views, and the result is a hierarchy of view objects with the window at its root.

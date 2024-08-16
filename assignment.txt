@@ -1,0 +1,9 @@
+intent
+android activity
+simple calculator
+
+
+What is toast? Develop an Android application to create alert dialog to input any number and then calculate factorial of number and display the result in toast. (make activity, input number, button, downward result)
+
+what is the difference between activity and fragment? Develop an android application to create user interface for input length, width, and height of rectangular box and button for the volume in one fragment when button is clicked then these input data are passed into second fragment and calcultate volume of rectangular box and display the result in TextBox. (make activity instead of fragment).
+

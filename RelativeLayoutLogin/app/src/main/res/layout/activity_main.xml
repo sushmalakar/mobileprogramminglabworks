@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/login_img"
+        android:contentDescription="@string/login_img"/>
+
+    <TextView
+        android:id="@+id/welcomeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome"
+        android:textSize="28sp"
+        android:textColor="@color/black"
+        android:layout_below="@id/logoImageView"
+        />
+    <EditText
+        android:id="@+id/usernameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/username"
+        android:layout_below="@id/welcomeTextView"
+        android:layout_marginTop="24dp"/>
+    <EditText
+        android:id="@+id/passwordTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/password"
+        android:layout_below="@id/usernameTextView"
+        android:layout_marginTop="24dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/login_btn"
+        android:textAllCaps="false"
+        android:layout_below="@id/passwordTextView"
+        android:backgroundTint="@color/blue"
+        android:textColor="@color/white"/>
+
+
+
+
+</RelativeLayout>

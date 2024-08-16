@@ -1,0 +1,16 @@
+
+E
+java:S16041"(Make this anonymous inner class a lambda(΄Ώ¤φ8‡ρθ°ς0
+E
+java:S1604["(Make this anonymous inner class a lambda(‰¬Υ8ΐµά°ς0
+o	java:S116#"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ΪΠώÿÿÿÿ8δΪ°ς0
+i
+java:S1659"LDeclare "addressEditText" and all following declarations on a separate line.(Ο›γό8ζΪ°ς0
+
+java:S1450"]Remove the "countrySpinner" field and declare it as a local variable in the relevant methods.(ΙΎ›Εύÿÿÿÿ8ζΪ°ς0
+~
+java:S1450"\Remove the "termsCheckBox" field and declare it as a local variable in the relevant methods.(Ϋÿ–³ώÿÿÿÿ8ζΪ°ς0
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(²ωΎ¥8™ρθ°ς0
+C	java:S1317""Add a default case to this switch.(ÿ«¬‹όÿÿÿÿ8™ρθ°ς0
+S
+java:S1068"1Remove this unused "termsCheckBox" private field.(Ϋÿ–³ώÿÿÿÿ8μΪ°ς0
